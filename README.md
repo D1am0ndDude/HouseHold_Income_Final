@@ -30,3 +30,5 @@
 * The selected topic and the reasoning for that selection (20 points)
 * A description of the data (20 points)
 * The questions that the team plans to answer with the project (20 points)
+
+![image](https://user-images.githubusercontent.com/46943357/213077821-687642d0-6602-409d-92be-e3c76ba1c10d.png)
