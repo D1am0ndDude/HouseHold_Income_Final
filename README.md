@@ -1,10 +1,10 @@
 # What to do
 # First Week:
-* Decide on a topic for the project—that is, think of a question that using data can answer.
-* Create a repository for the project, and then invite the other team members to join it.
-* Source a dataset or, if applicable, multiple datasets that will suit your needs.
-* Begin to clean, organize, and perform an exploratory data analysis on your datasets so that they're ready for analysis.
-* Include mock-ups of a machine learning model and a database.
+* Decide on a topic for the project—that is, think of a question that using data can answer. Completed
+* Create a repository for the project, and then invite the other team members to join it. Completed
+* Source a dataset or, if applicable, multiple datasets that will suit your needs. Completed
+* Begin to clean, organize, and perform an exploratory data analysis on your datasets so that they're ready for analysis. Working on
+* Include mock-ups of a machine learning model and a database. Needs to be done
 
 # Ask yourself the following questions: 
  * Which ideas are essential to the project? 
@@ -13,7 +13,7 @@
 
 # To sum up, your team needs to complete the following before meeting with your instructor:
 
-* Decide on a topic, source the data, and perform an exploratory data analysis.
+* Decide on a topic, source the data, and perform an exploratory data analysis. 
 * Create a repository and establish the individual branches for the team members.
 * Create a mock-up of a machine learning model.
 * Create a mock-up of a database.
