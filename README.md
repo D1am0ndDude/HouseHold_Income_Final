@@ -1,9 +1,5 @@
 # What to do
 # First Week:
-* Decide on a topic for the project—that is, think of a question that using data can answer. Completed
-* Create a repository for the project, and then invite the other team members to join it. Completed
-* Source a dataset or, if applicable, multiple datasets that will suit your needs. Completed
-* Begin to clean, organize, and perform an exploratory data analysis on your datasets so that they're ready for analysis. Completed
 * Include mock-ups of a machine learning model and a database. Needs to be done
 
 # Ask yourself the following questions: 
@@ -12,12 +8,24 @@
  * Which would involve too much work to complete on time?
 
 # To sum up, your team needs to complete the following before meeting with your instructor:
-
-* Decide on a topic, source the data, and perform an exploratory data analysis. Completed
-* Create a repository and establish the individual branches for the team members. Completed
 * Create a mock-up of a machine learning model.
-* Create a mock-up of a database. Completed
-* Decide which technologies you’ll use. Completed: We will use Pandas, ERD, SQL
+
+# Content
+* The Topic:
+Household incomes and expenditures.
+The reason why we picked this topic was due to the fact that todays economy is crazy, and we want to see if we can predict how bad the economy will get in the next year.
+
+* The Source: 
+Data was found on a government website, under the topic "Economy". Link:https://www.stats.govt.nz/large-datasets/csv-files-for-download/#:~:text=CSV%20files%20are%20text%20files%20with%20information%20separated,Microsoft%20Excel%2C%20the%20R%20statistical%20environment%2C%20or%20Python.
+This data includes households income, low-high, and also their expenditures, low-high. This data also holds information about what they spend.
+
+* Questions we hope to answer with Data:
+What will the economy look like an one year?
+Will the income and the expenditures both increase?
+Will only the expenditures increase?
+
+# Our Communication Protocols:
+We found it easiest to set a timely schedule every night on zoom. Using Imessage to also keep in contact. We were all able to get together every night and work on the project together. We did not have roles for each team member, we worked on each section together until it was completed, before moving on to the next. 
 
 # In this segment, the project deliverable includes the following:
 
