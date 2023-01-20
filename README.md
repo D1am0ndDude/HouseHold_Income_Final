@@ -27,6 +27,13 @@ Will only the expenditures increase?
 # Our Communication Protocols:
 We found it easiest to set a timely schedule every night on zoom. Using Imessage to also keep in contact. We were all able to get together every night and work on the project together. We did not have roles for each team member, we worked on each section together until it was completed, before moving on to the next. 
 
+Every Team Members branch:
+
+* https://github.com/D1am0ndDude/HouseHold_Income_Final/tree/Logans-Branch
+* https://github.com/D1am0ndDude/HouseHold_Income_Final/tree/Claytons-Branch
+* https://github.com/D1am0ndDude/HouseHold_Income_Final/tree/Darrens-Branch
+* https://github.com/D1am0ndDude/HouseHold_Income_Final/tree/Erics-Branch
+
 # In this segment, the project deliverable includes the following:
 
 * A detailed README.md file (20 points)
