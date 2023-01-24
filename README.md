@@ -13,14 +13,14 @@
 # Content
 * The Topic:
 Household incomes and expenditures.
-The reason why we picked this topic was due to the fact that todays economy is crazy, and we want to see if we can predict how bad the economy will get in the next year.
+The reason why we picked this topic was due to the fact that todays economy is crazy, and we want to see if we can predict how bad (or good) the economy will get in the next year.
 
 * The Source: 
 Data was found on a government website, under the topic "Economy". Link:https://www.stats.govt.nz/large-datasets/csv-files-for-download/#:~:text=CSV%20files%20are%20text%20files%20with%20information%20separated,Microsoft%20Excel%2C%20the%20R%20statistical%20environment%2C%20or%20Python.
 This data includes households income, low-high, and also their expenditures, low-high. This data also holds information about what they spend.
 
 * Questions we hope to answer with Data:
-What will the economy look like an one year?
+What will the economy look like in one year?
 Will the income and the expenditures both increase?
 Will only the expenditures increase?
 
