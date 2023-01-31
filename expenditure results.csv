@@ -1,0 +1,237 @@
+ID,protocol id,expenditures,expenditure amount,year
+0,Expenditure,Accommodation services,24927,2019
+1,Expenditure,Actual rentals for housing,45046,2019
+2,Expenditure,Alcoholic beverages,20762,2019
+3,Expenditure,Alcoholic beverages and tobacco,25032,2019
+4,Expenditure,All groups,21318,2019
+5,Expenditure,Audio-visual and computing equipment,11081,2019
+6,Expenditure,Cigarettes and tobacco,32635,2019
+7,Expenditure,Clothing,20022,2019
+8,Expenditure,Clothing and footwear,20109,2019
+9,Expenditure,Communication,17241,2019
+10,Expenditure,Credit services,16482,2019
+11,Expenditure,Early childhood education,22056,2019
+12,Expenditure,Education,20802,2019
+13,Expenditure,Electricity,21541,2019
+14,Expenditure,Food,20866,2019
+15,Expenditure,Footwear,20425,2019
+16,Expenditure,Fruit and vegetables,20824,2019
+17,Expenditure,"Furniture, furnishings and floor coverings",20844,2019
+18,Expenditure,"Glassware, tableware and household utensils",19343,2019
+19,Expenditure,Grocery food,20065,2019
+20,Expenditure,Health,21070,2019
+21,Expenditure,Hospital services,23274,2019
+22,Expenditure,Household appliances,20376,2019
+23,Expenditure,Household contents and services,20215,2019
+24,Expenditure,Household energy,21659,2019
+25,Expenditure,Household textiles,20029,2019
+26,Expenditure,Housing and household utilities,22815,2019
+27,Expenditure,Insurance,24699,2019
+28,Expenditure,Interest payments,43980,2019
+29,Expenditure,Local authority rates and payments,25414,2019
+30,Expenditure,Major recreational and cultural equipment,21658,2019
+31,Expenditure,"Meat, poultry and fish",20852,2019
+32,Expenditure,"Medical products, appliances and equipment",19916,2019
+33,Expenditure,Miscellaneous goods and services,22981,2019
+34,Expenditure,"Newspapers, books and stationery",24445,2019
+35,Expenditure,Non-alcoholic beverages,20723,2019
+36,Expenditure,Other educational fees,23080,2019
+37,Expenditure,Other household supplies and services,19920,2019
+38,Expenditure,Other miscellaneous services,22719,2019
+39,Expenditure,Other recreational equipment and supplies,20712,2019
+40,Expenditure,Out-patient services,21546,2019
+41,Expenditure,Passenger transport services,18444,2019
+42,Expenditure,Personal care,20037,2019
+43,Expenditure,Personal effects,21765,2019
+44,Expenditure,Petrol,19966,2019
+45,Expenditure,Postal services,24534,2019
+46,Expenditure,Primary and secondary education,23416,2019
+47,Expenditure,Private transport supplies and services,18975,2019
+48,Expenditure,Property maintenance,23001,2019
+49,Expenditure,Property rates and related services,25007,2019
+50,Expenditure,Purchase of vehicles,19198,2019
+51,Expenditure,Recreation and culture,20253,2019
+52,Expenditure,Recreational and cultural services,20937,2019
+53,Expenditure,Restaurant meals and ready-to-eat food,22564,2019
+54,Expenditure,Telecommunication equipment,7955,2019
+55,Expenditure,Telecommunication services,18118,2019
+56,Expenditure,Tertiary and other post school education,18364,2019
+57,Expenditure,Tools and equipment for house and garden,19716,2019
+58,Expenditure,Transport,18625,2019
+59,Expenditure,Accommodation services,26250,2020
+60,Expenditure,Actual rentals for housing,46712,2020
+61,Expenditure,Alcoholic beverages,21087,2020
+62,Expenditure,Alcoholic beverages and tobacco,26463,2020
+63,Expenditure,All groups,21581,2020
+64,Expenditure,Audio-visual and computing equipment,10206,2020
+65,Expenditure,Cigarettes and tobacco,36210,2020
+66,Expenditure,Clothing,20051,2020
+67,Expenditure,Clothing and footwear,19934,2020
+68,Expenditure,Communication,16858,2020
+69,Expenditure,Credit services,15979,2020
+70,Expenditure,Early childhood education,22778,2020
+71,Expenditure,Education,20621,2020
+72,Expenditure,Electricity,21800,2020
+73,Expenditure,Food,21549,2020
+74,Expenditure,Footwear,19359,2020
+75,Expenditure,Fruit and vegetables,22222,2020
+76,Expenditure,"Furniture, furnishings and floor coverings",20902,2020
+77,Expenditure,"Glassware, tableware and household utensils",20086,2020
+78,Expenditure,Grocery food,20491,2020
+79,Expenditure,Health,21436,2020
+80,Expenditure,Hospital services,23893,2020
+81,Expenditure,Household appliances,20197,2020
+82,Expenditure,Household contents and services,20388,2020
+83,Expenditure,Household energy,21954,2020
+84,Expenditure,Household textiles,20613,2020
+85,Expenditure,Housing and household utilities,23538,2020
+86,Expenditure,Insurance,25410,2020
+87,Expenditure,Interest payments,40138,2020
+88,Expenditure,Local authority rates and payments,26418,2020
+89,Expenditure,Major recreational and cultural equipment,21946,2020
+90,Expenditure,"Meat, poultry and fish",21537,2020
+91,Expenditure,"Medical products, appliances and equipment",20087,2020
+92,Expenditure,Miscellaneous goods and services,23517,2020
+93,Expenditure,"Newspapers, books and stationery",25495,2020
+94,Expenditure,Non-alcoholic beverages,21047,2020
+95,Expenditure,Other educational fees,22320,2020
+96,Expenditure,Other household supplies and services,20266,2020
+97,Expenditure,Other miscellaneous services,23243,2020
+98,Expenditure,Other recreational equipment and supplies,21031,2020
+99,Expenditure,Out-patient services,22020,2020
+100,Expenditure,Passenger transport services,18951,2020
+101,Expenditure,Personal care,20217,2020
+102,Expenditure,Personal effects,22341,2020
+103,Expenditure,Petrol,18279,2020
+104,Expenditure,Postal services,24695,2020
+105,Expenditure,Primary and secondary education,22208,2020
+106,Expenditure,Private transport supplies and services,18001,2020
+107,Expenditure,Property maintenance,23704,2020
+108,Expenditure,Property rates and related services,26011,2020
+109,Expenditure,Purchase of vehicles,19290,2020
+110,Expenditure,Recreation and culture,20544,2020
+111,Expenditure,Recreational and cultural services,21168,2020
+112,Expenditure,Restaurant meals and ready-to-eat food,23407,2020
+113,Expenditure,Telecommunication equipment,8104,2020
+114,Expenditure,Telecommunication services,17577,2020
+115,Expenditure,Tertiary and other post school education,18492,2020
+116,Expenditure,Tools and equipment for house and garden,19604,2020
+117,Expenditure,Transport,18135,2020
+118,Expenditure,Accommodation services,28333,2021
+119,Expenditure,Actual rentals for housing,48422,2021
+120,Expenditure,Alcoholic beverages,21443,2021
+121,Expenditure,Alcoholic beverages and tobacco,27062,2021
+122,Expenditure,All groups,22253,2021
+123,Expenditure,Audio-visual and computing equipment,9351,2021
+124,Expenditure,Cigarettes and tobacco,37251,2021
+125,Expenditure,Clothing,20442,2021
+126,Expenditure,Clothing and footwear,20425,2021
+127,Expenditure,Communication,16337,2021
+128,Expenditure,Credit services,15658,2021
+129,Expenditure,Early childhood education,23398,2021
+130,Expenditure,Education,21188,2021
+131,Expenditure,Electricity,21668,2021
+132,Expenditure,Food,22062,2021
+133,Expenditure,Footwear,20335,2021
+134,Expenditure,Fruit and vegetables,23394,2021
+135,Expenditure,"Furniture, furnishings and floor coverings",21875,2021
+136,Expenditure,"Glassware, tableware and household utensils",20096,2021
+137,Expenditure,Grocery food,20791,2021
+138,Expenditure,Health,21897,2021
+139,Expenditure,Hospital services,24720,2021
+140,Expenditure,Household appliances,20906,2021
+141,Expenditure,Household contents and services,21012,2021
+142,Expenditure,Household energy,21858,2021
+143,Expenditure,Household textiles,20928,2021
+144,Expenditure,Housing and household utilities,24276,2021
+145,Expenditure,Insurance,26075,2021
+146,Expenditure,Interest payments,38652,2021
+147,Expenditure,Local authority rates and payments,27772,2021
+148,Expenditure,Major recreational and cultural equipment,22850,2021
+149,Expenditure,"Meat, poultry and fish",21660,2021
+150,Expenditure,"Medical products, appliances and equipment",19885,2021
+151,Expenditure,Miscellaneous goods and services,24332,2021
+152,Expenditure,"Newspapers, books and stationery",25876,2021
+153,Expenditure,Non-alcoholic beverages,21044,2021
+154,Expenditure,Other educational fees,21868,2021
+155,Expenditure,Other household supplies and services,20788,2021
+156,Expenditure,Other miscellaneous services,25014,2021
+157,Expenditure,Other recreational equipment and supplies,22402,2021
+158,Expenditure,Out-patient services,22863,2021
+159,Expenditure,Passenger transport services,21943,2021
+160,Expenditure,Personal care,20574,2021
+161,Expenditure,Personal effects,22631,2021
+162,Expenditure,Petrol,21156,2021
+163,Expenditure,Postal services,24986,2021
+164,Expenditure,Primary and secondary education,23152,2021
+165,Expenditure,Private transport supplies and services,20034,2021
+166,Expenditure,Property maintenance,24595,2021
+167,Expenditure,Property rates and related services,27314,2021
+168,Expenditure,Purchase of vehicles,20966,2021
+169,Expenditure,Recreation and culture,21092,2021
+170,Expenditure,Recreational and cultural services,21434,2021
+171,Expenditure,Restaurant meals and ready-to-eat food,24415,2021
+172,Expenditure,Telecommunication equipment,6909,2021
+173,Expenditure,Telecommunication services,17142,2021
+174,Expenditure,Tertiary and other post school education,18796,2021
+175,Expenditure,Tools and equipment for house and garden,20068,2021
+176,Expenditure,Transport,20086,2021
+177,Expenditure,Accommodation services,22804,2022
+178,Expenditure,Actual rentals for housing,37854,2022
+179,Expenditure,Alcoholic beverages,16647,2022
+180,Expenditure,Alcoholic beverages and tobacco,21072,2022
+181,Expenditure,All groups,17771,2022
+182,Expenditure,Audio-visual and computing equipment,6342,2022
+183,Expenditure,Cigarettes and tobacco,29097,2022
+184,Expenditure,Clothing,15489,2022
+185,Expenditure,Clothing and footwear,15516,2022
+186,Expenditure,Communication,12397,2022
+187,Expenditure,Credit services,10911,2022
+188,Expenditure,Early childhood education,17947,2022
+189,Expenditure,Education,16250,2022
+190,Expenditure,Electricity,16428,2022
+191,Expenditure,Food,17670,2022
+192,Expenditure,Footwear,15641,2022
+193,Expenditure,Fruit and vegetables,19875,2022
+194,Expenditure,"Furniture, furnishings and floor coverings",17479,2022
+195,Expenditure,"Glassware, tableware and household utensils",15450,2022
+196,Expenditure,Grocery food,16583,2022
+197,Expenditure,Health,16936,2022
+198,Expenditure,Hospital services,19747,2022
+199,Expenditure,Household appliances,16247,2022
+200,Expenditure,Household contents and services,16652,2022
+201,Expenditure,Household energy,16609,2022
+202,Expenditure,Household textiles,16023,2022
+203,Expenditure,Housing and household utilities,18975,2022
+204,Expenditure,Insurance,20056,2022
+205,Expenditure,Interest payments,37090,2022
+206,Expenditure,Local authority rates and payments,22068,2022
+207,Expenditure,Major recreational and cultural equipment,18475,2022
+208,Expenditure,"Meat, poultry and fish",17296,2022
+209,Expenditure,"Medical products, appliances and equipment",15157,2022
+210,Expenditure,Miscellaneous goods and services,18921,2022
+211,Expenditure,"Newspapers, books and stationery",20092,2022
+212,Expenditure,Non-alcoholic beverages,16343,2022
+213,Expenditure,Other educational fees,16551,2022
+214,Expenditure,Other household supplies and services,16818,2022
+215,Expenditure,Other miscellaneous services,19793,2022
+216,Expenditure,Other recreational equipment and supplies,17850,2022
+217,Expenditure,Out-patient services,17783,2022
+218,Expenditure,Passenger transport services,16250,2022
+219,Expenditure,Personal care,16404,2022
+220,Expenditure,Personal effects,17412,2022
+221,Expenditure,Petrol,19535,2022
+222,Expenditure,Postal services,19889,2022
+223,Expenditure,Primary and secondary education,17934,2022
+224,Expenditure,Private transport supplies and services,17707,2022
+225,Expenditure,Property maintenance,19649,2022
+226,Expenditure,Property rates and related services,21692,2022
+227,Expenditure,Purchase of vehicles,16493,2022
+228,Expenditure,Recreation and culture,16261,2022
+229,Expenditure,Recreational and cultural services,16229,2022
+230,Expenditure,Restaurant meals and ready-to-eat food,19287,2022
+231,Expenditure,Telecommunication equipment,5246,2022
+232,Expenditure,Telecommunication services,12987,2022
+233,Expenditure,Tertiary and other post school education,14295,2022
+234,Expenditure,Tools and equipment for house and garden,16198,2022
+235,Expenditure,Transport,17011,2022
