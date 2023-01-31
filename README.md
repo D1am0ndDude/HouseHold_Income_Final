@@ -47,3 +47,7 @@ Every Team Members branch:
 * The questions that the team plans to answer with the project (20 points)
 
 ![image](https://user-images.githubusercontent.com/46943357/213077821-687642d0-6602-409d-92be-e3c76ba1c10d.png)
+
+![image](https://user-images.githubusercontent.com/46943357/215633153-439948eb-56d9-441a-a07b-1f0c242c7a21.png)
+
+
