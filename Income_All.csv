@@ -1,0 +1,237 @@
+﻿id,year,expenditures,expenditure_amount,income_amount
+1,2019,Accommodation services,24927,24971
+2,2019,Actual rentals for housing,45046,45048
+3,2019,Alcoholic beverages,20762,20710
+4,2019,Alcoholic beverages and tobacco,25032,25036
+5,2019,All groups,21318,21318
+6,2019,Audio-visual and computing equipment,11081,11083
+7,2019,Cigarettes and tobacco,32635,32637
+8,2019,Clothing,20022,20012
+9,2019,Clothing and footwear,20109,20129
+10,2019,Communication,17241,17411
+11,2019,Credit services,16482,16485
+12,2019,Early childhood education,22056,22010
+13,2019,Education,20802,20732
+14,2019,Electricity,21541,21540
+15,2019,Food,20866,20859
+16,2019,Footwear,20425,20621
+17,2019,Fruit and vegetables,20824,20808
+18,2019,"Furniture, furnishings and floor coverings",20844,20808
+19,2019,"Glassware, tableware and household utensils",19343,19137
+20,2019,Grocery food,20065,20064
+21,2019,Health,21070,21057
+22,2019,Hospital services,23274,23258
+23,2019,Household appliances,20376,20363
+24,2019,Household contents and services,20215,20215
+25,2019,Household energy,21659,21655
+26,2019,Household textiles,20029,20210
+27,2019,Housing and household utilities,22815,22820
+28,2019,Insurance,24699,24698
+29,2019,Interest payments,43980,44258
+30,2019,Local authority rates and payments,25414,25414
+31,2019,Major recreational and cultural equipment,21658,21471
+32,2019,"Meat, poultry and fish",20852,20865
+33,2019,"Medical products, appliances and equipment",19916,19918
+34,2019,Miscellaneous goods and services,22981,22962
+35,2019,"Newspapers, books and stationery",24445,24357
+36,2019,Non-alcoholic beverages,20723,20718
+37,2019,Other educational fees,23080,23080
+38,2019,Other household supplies and services,19920,19940
+39,2019,Other miscellaneous services,22719,22780
+40,2019,Other recreational equipment and supplies,20712,20728
+41,2019,Out-patient services,21546,21545
+42,2019,Passenger transport services,18444,18491
+43,2019,Personal care,20037,20034
+44,2019,Personal effects,21765,21566
+45,2019,Petrol,19966,19965
+46,2019,Postal services,24534,24527
+47,2019,Primary and secondary education,23416,23392
+48,2019,Private transport supplies and services,18975,18971
+49,2019,Property maintenance,23001,23011
+50,2019,Property rates and related services,25007,25012
+51,2019,Purchase of vehicles,19198,19175
+52,2019,Recreation and culture,20253,20284
+53,2019,Recreational and cultural services,20937,20959
+54,2019,Restaurant meals and ready-to-eat food,22564,22561
+55,2019,Telecommunication equipment,7955,7599
+56,2019,Telecommunication services,18118,18279
+57,2019,Tertiary and other post school education,18364,18600
+58,2019,Tools and equipment for house and garden,19716,19696
+59,2019,Transport,18625,18688
+60,2020,Accommodation services,26250,26329
+61,2020,Actual rentals for housing,46712,46714
+62,2020,Alcoholic beverages,21087,21048
+63,2020,Alcoholic beverages and tobacco,26463,26491
+64,2020,All groups,21581,21579
+65,2020,Audio-visual and computing equipment,10206,10165
+66,2020,Cigarettes and tobacco,36210,36213
+67,2020,Clothing,20051,20021
+68,2020,Clothing and footwear,19934,19910
+69,2020,Communication,16858,17028
+70,2020,Credit services,15979,15976
+71,2020,Early childhood education,22778,22712
+72,2020,Education,20621,20730
+73,2020,Electricity,21800,21799
+74,2020,Food,21549,21542
+75,2020,Footwear,19359,19369
+76,2020,Fruit and vegetables,22222,22225
+77,2020,"Furniture, furnishings and floor coverings",20902,20876
+78,2020,"Glassware, tableware and household utensils",20086,19858
+79,2020,Grocery food,20491,20490
+80,2020,Health,21436,21425
+81,2020,Hospital services,23893,23852
+82,2020,Household appliances,20197,20202
+83,2020,Household contents and services,20388,20384
+84,2020,Household energy,21954,21952
+85,2020,Household textiles,20613,20758
+86,2020,Housing and household utilities,23538,23544
+87,2020,Insurance,25410,25410
+88,2020,Interest payments,40138,40394
+89,2020,Local authority rates and payments,26418,26420
+90,2020,Major recreational and cultural equipment,21946,21872
+91,2020,"Meat, poultry and fish",21537,21552
+92,2020,"Medical products, appliances and equipment",20087,20088
+93,2020,Miscellaneous goods and services,23517,23499
+94,2020,"Newspapers, books and stationery",25495,25449
+95,2020,Non-alcoholic beverages,21047,21043
+96,2020,Other educational fees,22320,22324
+97,2020,Other household supplies and services,20266,20296
+98,2020,Other miscellaneous services,23243,23308
+99,2020,Other recreational equipment and supplies,21031,21051
+100,2020,Out-patient services,22020,22016
+101,2020,Passenger transport services,18951,18956
+102,2020,Personal care,20217,20218
+103,2020,Personal effects,22341,22079
+104,2020,Petrol,18279,18277
+105,2020,Postal services,24695,24678
+106,2020,Primary and secondary education,22208,22244
+107,2020,Private transport supplies and services,18001,17990
+108,2020,Property maintenance,23704,23727
+109,2020,Property rates and related services,26011,26018
+110,2020,Purchase of vehicles,19290,19233
+111,2020,Recreation and culture,20544,20585
+112,2020,Recreational and cultural services,21168,21186
+113,2020,Restaurant meals and ready-to-eat food,23407,23409
+114,2020,Telecommunication equipment,8104,7726
+115,2020,Telecommunication services,17577,17739
+116,2020,Tertiary and other post school education,18492,18744
+117,2020,Tools and equipment for house and garden,19604,19584
+118,2020,Transport,18135,18204
+119,2021,Accommodation services,28333,28722
+120,2021,Actual rentals for housing,48422,48418
+121,2021,Alcoholic beverages,21443,21402
+122,2021,Alcoholic beverages and tobacco,27062,27092
+123,2021,All groups,22253,22255
+124,2021,Audio-visual and computing equipment,9351,9301
+125,2021,Cigarettes and tobacco,37251,37253
+126,2021,Clothing,20442,20403
+127,2021,Clothing and footwear,20425,20392
+128,2021,Communication,16337,16522
+129,2021,Credit services,15658,15661
+130,2021,Early childhood education,23398,23330
+131,2021,Education,21188,21264
+132,2021,Electricity,21668,21668
+133,2021,Food,22062,22055
+134,2021,Footwear,20335,20321
+135,2021,Fruit and vegetables,23394,23398
+136,2021,"Furniture, furnishings and floor coverings",21875,21845
+137,2021,"Glassware, tableware and household utensils",20096,19889
+138,2021,Grocery food,20791,20792
+139,2021,Health,21897,21893
+140,2021,Hospital services,24720,24647
+141,2021,Household appliances,20906,20909
+142,2021,Household contents and services,21012,21012
+143,2021,Household energy,21858,21855
+144,2021,Household textiles,20928,21031
+145,2021,Housing and household utilities,24276,24273
+146,2021,Insurance,26075,26076
+147,2021,Interest payments,38652,38958
+148,2021,Local authority rates and payments,27772,27774
+149,2021,Major recreational and cultural equipment,22850,23058
+150,2021,"Meat, poultry and fish",21660,21675
+151,2021,"Medical products, appliances and equipment",19885,19886
+152,2021,Miscellaneous goods and services,24332,24314
+153,2021,"Newspapers, books and stationery",25876,25824
+154,2021,Non-alcoholic beverages,21044,21037
+155,2021,Other educational fees,21868,21872
+156,2021,Other household supplies and services,20788,20833
+157,2021,Other miscellaneous services,25014,25159
+158,2021,Other recreational equipment and supplies,22402,22448
+159,2021,Out-patient services,22863,22860
+160,2021,Passenger transport services,21943,22031
+161,2021,Personal care,20574,20566
+162,2021,Personal effects,22631,22331
+163,2021,Petrol,21156,21154
+164,2021,Postal services,24986,24957
+165,2021,Primary and secondary education,23152,23188
+166,2021,Private transport supplies and services,20034,20023
+167,2021,Property maintenance,24595,24642
+168,2021,Property rates and related services,27314,27331
+169,2021,Purchase of vehicles,20966,20736
+170,2021,Recreation and culture,21092,21156
+171,2021,Recreational and cultural services,21434,21449
+172,2021,Restaurant meals and ready-to-eat food,24415,24414
+173,2021,Telecommunication equipment,6909,6588
+174,2021,Telecommunication services,17142,17314
+175,2021,Tertiary and other post school education,18796,19044
+176,2021,Tools and equipment for house and garden,20068,20047
+177,2021,Transport,20086,20144
+178,2022,Accommodation services,22804,23149
+179,2022,Actual rentals for housing,37854,37850
+180,2022,Alcoholic beverages,16647,16615
+181,2022,Alcoholic beverages and tobacco,21072,21096
+182,2022,All groups,17771,17772
+183,2022,Audio-visual and computing equipment,6342,6328
+184,2022,Cigarettes and tobacco,29097,29101
+185,2022,Clothing,15489,15444
+186,2022,Clothing and footwear,15516,15486
+187,2022,Communication,12397,12538
+188,2022,Credit services,10911,10960
+189,2022,Early childhood education,17947,17889
+190,2022,Education,16250,16305
+191,2022,Electricity,16428,16428
+192,2022,Food,17670,17667
+193,2022,Footwear,15641,15644
+194,2022,Fruit and vegetables,19875,19875
+195,2022,"Furniture, furnishings and floor coverings",17479,17443
+196,2022,"Glassware, tableware and household utensils",15450,15354
+197,2022,Grocery food,16583,16585
+198,2022,Health,16936,16942
+199,2022,Hospital services,19747,19660
+200,2022,Household appliances,16247,16254
+201,2022,Household contents and services,16652,16653
+202,2022,Household energy,16609,16603
+203,2022,Household textiles,16023,16128
+204,2022,Housing and household utilities,18975,18964
+205,2022,Insurance,20056,20059
+206,2022,Interest payments,37090,37444
+207,2022,Local authority rates and payments,22068,22068
+208,2022,Major recreational and cultural equipment,18475,18873
+209,2022,"Meat, poultry and fish",17296,17314
+210,2022,"Medical products, appliances and equipment",15157,15157
+211,2022,Miscellaneous goods and services,18921,18913
+212,2022,"Newspapers, books and stationery",20092,20060
+213,2022,Non-alcoholic beverages,16343,16337
+214,2022,Other educational fees,16551,16554
+215,2022,Other household supplies and services,16818,16846
+216,2022,Other miscellaneous services,19793,19950
+217,2022,Other recreational equipment and supplies,17850,17888
+218,2022,Out-patient services,17783,17786
+219,2022,Passenger transport services,16250,16334
+220,2022,Personal care,16404,16392
+221,2022,Personal effects,17412,17295
+222,2022,Petrol,19535,19533
+223,2022,Postal services,19889,19873
+224,2022,Primary and secondary education,17934,17973
+225,2022,Private transport supplies and services,17707,17701
+226,2022,Property maintenance,19649,19710
+227,2022,Property rates and related services,21692,21702
+228,2022,Purchase of vehicles,16493,16256
+229,2022,Recreation and culture,16261,16328
+230,2022,Recreational and cultural services,16229,16244
+231,2022,Restaurant meals and ready-to-eat food,19287,19285
+232,2022,Telecommunication equipment,5246,5000
+233,2022,Telecommunication services,12987,13113
+234,2022,Tertiary and other post school education,14295,14481
+235,2022,Tools and equipment for house and garden,16198,16188
+236,2022,Transport,17011,17033
