@@ -1,0 +1,237 @@
+ID,protocol id,expenditures,income amount,year
+0,Income,Accommodation services,24971,2019
+1,Income,Actual rentals for housing,45048,2019
+2,Income,Alcoholic beverages,20710,2019
+3,Income,Alcoholic beverages and tobacco,25036,2019
+4,Income,All groups,21318,2019
+5,Income,Audio-visual and computing equipment,11083,2019
+6,Income,Cigarettes and tobacco,32637,2019
+7,Income,Clothing,20012,2019
+8,Income,Clothing and footwear,20129,2019
+9,Income,Communication,17411,2019
+10,Income,Credit services,16485,2019
+11,Income,Early childhood education,22010,2019
+12,Income,Education,20732,2019
+13,Income,Electricity,21540,2019
+14,Income,Food,20859,2019
+15,Income,Footwear,20621,2019
+16,Income,Fruit and vegetables,20808,2019
+17,Income,"Furniture, furnishings and floor coverings",20808,2019
+18,Income,"Glassware, tableware and household utensils",19137,2019
+19,Income,Grocery food,20064,2019
+20,Income,Health,21057,2019
+21,Income,Hospital services,23258,2019
+22,Income,Household appliances,20363,2019
+23,Income,Household contents and services,20215,2019
+24,Income,Household energy,21655,2019
+25,Income,Household textiles,20210,2019
+26,Income,Housing and household utilities,22820,2019
+27,Income,Insurance,24698,2019
+28,Income,Interest payments,44258,2019
+29,Income,Local authority rates and payments,25414,2019
+30,Income,Major recreational and cultural equipment,21471,2019
+31,Income,"Meat, poultry and fish",20865,2019
+32,Income,"Medical products, appliances and equipment",19918,2019
+33,Income,Miscellaneous goods and services,22962,2019
+34,Income,"Newspapers, books and stationery",24357,2019
+35,Income,Non-alcoholic beverages,20718,2019
+36,Income,Other educational fees,23080,2019
+37,Income,Other household supplies and services,19940,2019
+38,Income,Other miscellaneous services,22780,2019
+39,Income,Other recreational equipment and supplies,20728,2019
+40,Income,Out-patient services,21545,2019
+41,Income,Passenger transport services,18491,2019
+42,Income,Personal care,20034,2019
+43,Income,Personal effects,21566,2019
+44,Income,Petrol,19965,2019
+45,Income,Postal services,24527,2019
+46,Income,Primary and secondary education,23392,2019
+47,Income,Private transport supplies and services,18971,2019
+48,Income,Property maintenance,23011,2019
+49,Income,Property rates and related services,25012,2019
+50,Income,Purchase of vehicles,19175,2019
+51,Income,Recreation and culture,20284,2019
+52,Income,Recreational and cultural services,20959,2019
+53,Income,Restaurant meals and ready-to-eat food,22561,2019
+54,Income,Telecommunication equipment,7599,2019
+55,Income,Telecommunication services,18279,2019
+56,Income,Tertiary and other post school education,18600,2019
+57,Income,Tools and equipment for house and garden,19696,2019
+58,Income,Transport,18688,2019
+59,Income,Accommodation services,26329,2020
+60,Income,Actual rentals for housing,46714,2020
+61,Income,Alcoholic beverages,21048,2020
+62,Income,Alcoholic beverages and tobacco,26491,2020
+63,Income,All groups,21579,2020
+64,Income,Audio-visual and computing equipment,10165,2020
+65,Income,Cigarettes and tobacco,36213,2020
+66,Income,Clothing,20021,2020
+67,Income,Clothing and footwear,19910,2020
+68,Income,Communication,17028,2020
+69,Income,Credit services,15976,2020
+70,Income,Early childhood education,22712,2020
+71,Income,Education,20730,2020
+72,Income,Electricity,21799,2020
+73,Income,Food,21542,2020
+74,Income,Footwear,19369,2020
+75,Income,Fruit and vegetables,22225,2020
+76,Income,"Furniture, furnishings and floor coverings",20876,2020
+77,Income,"Glassware, tableware and household utensils",19858,2020
+78,Income,Grocery food,20490,2020
+79,Income,Health,21425,2020
+80,Income,Hospital services,23852,2020
+81,Income,Household appliances,20202,2020
+82,Income,Household contents and services,20384,2020
+83,Income,Household energy,21952,2020
+84,Income,Household textiles,20758,2020
+85,Income,Housing and household utilities,23544,2020
+86,Income,Insurance,25410,2020
+87,Income,Interest payments,40394,2020
+88,Income,Local authority rates and payments,26420,2020
+89,Income,Major recreational and cultural equipment,21872,2020
+90,Income,"Meat, poultry and fish",21552,2020
+91,Income,"Medical products, appliances and equipment",20088,2020
+92,Income,Miscellaneous goods and services,23499,2020
+93,Income,"Newspapers, books and stationery",25449,2020
+94,Income,Non-alcoholic beverages,21043,2020
+95,Income,Other educational fees,22324,2020
+96,Income,Other household supplies and services,20296,2020
+97,Income,Other miscellaneous services,23308,2020
+98,Income,Other recreational equipment and supplies,21051,2020
+99,Income,Out-patient services,22016,2020
+100,Income,Passenger transport services,18956,2020
+101,Income,Personal care,20218,2020
+102,Income,Personal effects,22079,2020
+103,Income,Petrol,18277,2020
+104,Income,Postal services,24678,2020
+105,Income,Primary and secondary education,22244,2020
+106,Income,Private transport supplies and services,17990,2020
+107,Income,Property maintenance,23727,2020
+108,Income,Property rates and related services,26018,2020
+109,Income,Purchase of vehicles,19233,2020
+110,Income,Recreation and culture,20585,2020
+111,Income,Recreational and cultural services,21186,2020
+112,Income,Restaurant meals and ready-to-eat food,23409,2020
+113,Income,Telecommunication equipment,7726,2020
+114,Income,Telecommunication services,17739,2020
+115,Income,Tertiary and other post school education,18744,2020
+116,Income,Tools and equipment for house and garden,19584,2020
+117,Income,Transport,18204,2020
+118,Income,Accommodation services,28722,2021
+119,Income,Actual rentals for housing,48418,2021
+120,Income,Alcoholic beverages,21402,2021
+121,Income,Alcoholic beverages and tobacco,27092,2021
+122,Income,All groups,22255,2021
+123,Income,Audio-visual and computing equipment,9301,2021
+124,Income,Cigarettes and tobacco,37253,2021
+125,Income,Clothing,20403,2021
+126,Income,Clothing and footwear,20392,2021
+127,Income,Communication,16522,2021
+128,Income,Credit services,15661,2021
+129,Income,Early childhood education,23330,2021
+130,Income,Education,21264,2021
+131,Income,Electricity,21668,2021
+132,Income,Food,22055,2021
+133,Income,Footwear,20321,2021
+134,Income,Fruit and vegetables,23398,2021
+135,Income,"Furniture, furnishings and floor coverings",21845,2021
+136,Income,"Glassware, tableware and household utensils",19889,2021
+137,Income,Grocery food,20792,2021
+138,Income,Health,21893,2021
+139,Income,Hospital services,24647,2021
+140,Income,Household appliances,20909,2021
+141,Income,Household contents and services,21012,2021
+142,Income,Household energy,21855,2021
+143,Income,Household textiles,21031,2021
+144,Income,Housing and household utilities,24273,2021
+145,Income,Insurance,26076,2021
+146,Income,Interest payments,38958,2021
+147,Income,Local authority rates and payments,27774,2021
+148,Income,Major recreational and cultural equipment,23058,2021
+149,Income,"Meat, poultry and fish",21675,2021
+150,Income,"Medical products, appliances and equipment",19886,2021
+151,Income,Miscellaneous goods and services,24314,2021
+152,Income,"Newspapers, books and stationery",25824,2021
+153,Income,Non-alcoholic beverages,21037,2021
+154,Income,Other educational fees,21872,2021
+155,Income,Other household supplies and services,20833,2021
+156,Income,Other miscellaneous services,25159,2021
+157,Income,Other recreational equipment and supplies,22448,2021
+158,Income,Out-patient services,22860,2021
+159,Income,Passenger transport services,22031,2021
+160,Income,Personal care,20566,2021
+161,Income,Personal effects,22331,2021
+162,Income,Petrol,21154,2021
+163,Income,Postal services,24957,2021
+164,Income,Primary and secondary education,23188,2021
+165,Income,Private transport supplies and services,20023,2021
+166,Income,Property maintenance,24642,2021
+167,Income,Property rates and related services,27331,2021
+168,Income,Purchase of vehicles,20736,2021
+169,Income,Recreation and culture,21156,2021
+170,Income,Recreational and cultural services,21449,2021
+171,Income,Restaurant meals and ready-to-eat food,24414,2021
+172,Income,Telecommunication equipment,6588,2021
+173,Income,Telecommunication services,17314,2021
+174,Income,Tertiary and other post school education,19044,2021
+175,Income,Tools and equipment for house and garden,20047,2021
+176,Income,Transport,20144,2021
+177,Income,Accommodation services,23149,2022
+178,Income,Actual rentals for housing,37850,2022
+179,Income,Alcoholic beverages,16615,2022
+180,Income,Alcoholic beverages and tobacco,21096,2022
+181,Income,All groups,17772,2022
+182,Income,Audio-visual and computing equipment,6328,2022
+183,Income,Cigarettes and tobacco,29101,2022
+184,Income,Clothing,15444,2022
+185,Income,Clothing and footwear,15486,2022
+186,Income,Communication,12538,2022
+187,Income,Credit services,10960,2022
+188,Income,Early childhood education,17889,2022
+189,Income,Education,16305,2022
+190,Income,Electricity,16428,2022
+191,Income,Food,17667,2022
+192,Income,Footwear,15644,2022
+193,Income,Fruit and vegetables,19875,2022
+194,Income,"Furniture, furnishings and floor coverings",17443,2022
+195,Income,"Glassware, tableware and household utensils",15354,2022
+196,Income,Grocery food,16585,2022
+197,Income,Health,16942,2022
+198,Income,Hospital services,19660,2022
+199,Income,Household appliances,16254,2022
+200,Income,Household contents and services,16653,2022
+201,Income,Household energy,16603,2022
+202,Income,Household textiles,16128,2022
+203,Income,Housing and household utilities,18964,2022
+204,Income,Insurance,20059,2022
+205,Income,Interest payments,37444,2022
+206,Income,Local authority rates and payments,22068,2022
+207,Income,Major recreational and cultural equipment,18873,2022
+208,Income,"Meat, poultry and fish",17314,2022
+209,Income,"Medical products, appliances and equipment",15157,2022
+210,Income,Miscellaneous goods and services,18913,2022
+211,Income,"Newspapers, books and stationery",20060,2022
+212,Income,Non-alcoholic beverages,16337,2022
+213,Income,Other educational fees,16554,2022
+214,Income,Other household supplies and services,16846,2022
+215,Income,Other miscellaneous services,19950,2022
+216,Income,Other recreational equipment and supplies,17888,2022
+217,Income,Out-patient services,17786,2022
+218,Income,Passenger transport services,16334,2022
+219,Income,Personal care,16392,2022
+220,Income,Personal effects,17295,2022
+221,Income,Petrol,19533,2022
+222,Income,Postal services,19873,2022
+223,Income,Primary and secondary education,17973,2022
+224,Income,Private transport supplies and services,17701,2022
+225,Income,Property maintenance,19710,2022
+226,Income,Property rates and related services,21702,2022
+227,Income,Purchase of vehicles,16256,2022
+228,Income,Recreation and culture,16328,2022
+229,Income,Recreational and cultural services,16244,2022
+230,Income,Restaurant meals and ready-to-eat food,19285,2022
+231,Income,Telecommunication equipment,5000,2022
+232,Income,Telecommunication services,13113,2022
+233,Income,Tertiary and other post school education,14481,2022
+234,Income,Tools and equipment for house and garden,16188,2022
+235,Income,Transport,17033,2022
