@@ -26,6 +26,26 @@ What will the economy look like in one year?
 Will the income and the expenditures both increase?
 Will the data reflect what the economy will look like?
 
+# Description of the data exploration phase of the project:
+With our data, we at first thought it was a good idea to have the income values, alongside the expenditure values in one column. Come to find out, we had to split those up into two seperate columns. We went back and forth in pandas and SQL to create new tables, to then use in our Machine Learning Model. Because of that seperation of columns, it made it a lot easier to utilize the data.
+
+# Description of our analysis phase of the project:
+Using the machine learning model, we began to notice a pattern in our data. The income values were increasing for the first three years, then started to dip in the year 2022. Which gave us further information for our machine learning algorithm.
+
+
+# Description of preliminary data preprocessing:
+We filtered only the income_amount to use as the data. It was not necessary to clean up the data, as we did it previously before importing the csv file.
+
+# Our Decision-Making Progress:
+We were going back and forth with Logistical Regression, and Linear. We asked for our instructors help to make a good decision on using the right regression model. At first, the data we were using was not giving the results we wanted. There was a big difference in those models, so it was nice we changed them.
+
+# How the data the split into training and testing:
+We first converted the dataframe to a numpy array, then for the number of rows to train the model. After that, we created the training data set, and the scaled training data set. We did so by creating two empty variables (x_train, y_train) then created a for loop to grab all data in the range of 60.
+
+Once we did created that, we converted the variables to numpy arrays again, then reshaped the data. Aafter we were done with that, we built the LSTM model to make the dataset into a 3D model. Then compiled the model using model.compile. Once that was done, we trained the model with 100 epochs and a batch size of 1.
+
+# Explanation of model choice, including limitations and benefits:
+We wanted to choose the Linear Model for one reason. It was the best to predict values and display the predictions onto a line graph. Our limitations were on the accuracy of the model itself. It was nice we were able to plot a bell curve, and used a predictions line to see the data was similair to the correct data.
 
 # Our Communication Protocols:
 We found it easiest to set a timely schedule every night on zoom. Using Imessage to also keep in contact. We were all able to get together every night and work on the project together. We did not have roles for each team member, we worked on each section together until it was completed, before moving on to the next. 
