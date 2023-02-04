@@ -81,6 +81,9 @@ Every Team Members branch:
 
 ![image](https://user-images.githubusercontent.com/46943357/215633153-439948eb-56d9-441a-a07b-1f0c242c7a21.png)
 
-[Segment_4_rubric.pdf](https://github.com/D1am0ndDude/HouseHold_Income_Final/files/10608979/Segment_4_rubric.pdf)
+![image](https://user-images.githubusercontent.com/46943357/216776389-9df98ba8-2b2a-4e2e-87c1-44e29330d834.png)
+![image](https://user-images.githubusercontent.com/46943357/216776407-9ba0db8d-3177-4618-b4ef-c863a23d2cc3.png)
+
+
 
 
