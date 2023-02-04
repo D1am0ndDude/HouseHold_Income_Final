@@ -77,10 +77,6 @@ Every Team Members branch:
 * Anything that the team would have done differently if they had more time. (10 points)
 
 
-![image](https://user-images.githubusercontent.com/46943357/213077821-687642d0-6602-409d-92be-e3c76ba1c10d.png)
-
-![image](https://user-images.githubusercontent.com/46943357/215633153-439948eb-56d9-441a-a07b-1f0c242c7a21.png)
-
 ![image](https://user-images.githubusercontent.com/46943357/216776389-9df98ba8-2b2a-4e2e-87c1-44e29330d834.png)
 ![image](https://user-images.githubusercontent.com/46943357/216776407-9ba0db8d-3177-4618-b4ef-c863a23d2cc3.png)
 
