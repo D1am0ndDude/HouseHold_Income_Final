@@ -14,4 +14,8 @@ How I contributed to each role I did not play in: For the data cleaning, and SQL
 
 # The Project Summary:
 
-We communicated using a group chat on our phones. We were able to get each others phone numbers the week of the final project. We would arrange zoom meetings at night to discuss the needs, and the do's for the project. As well as working on things together. Having that clear communication was key in this whole thing. Some of the challenges we had was knowing what we wanted to do with the datasets. We would improve that by doing, and having a mindset of a data analysis. Our team strengths was teamwork. Everyone had a role, and we did everything together. On zoom, everyone had their cameras on, and we could see eachother. 
+We communicated using a group chat on our phones. We were able to get each others phone numbers the week of the final project. We would arrange zoom meetings at night to discuss the needs, and the do's for the project. As well as working on things together. Having that clear communication was key in this whole thing. Some of the challenges we had was knowing what we wanted to do with the datasets. We would improve that by doing, and having a mindset of a data analysis. 
+
+Our team strengths was teamwork. Everyone had a role, and we did everything together. On zoom, everyone had their cameras on, and we could see eachother. It made it enjoyable to have these meetings. Our tip to help:Contribute to your team.
+
+Our Topic was Household Income vs expenditures, and we used the LSTM model for predictions. The results from this analysis was, in the year 2023, incomes and expenditures will have decreased. 
