@@ -8,7 +8,7 @@
  * Which would involve too much work to complete on time?
 
 # To sum up, your team needs to complete the following before meeting with your instructor:
-* Create the Machine Learning Algorithm
+* Finish The Twenty-Minute Presentation
 
 # Content
 * The Topic:
