@@ -21,7 +21,6 @@ This data includes household income, and expenditures such as rent, gas, bills e
 
 * Questions we hope to answer with Data:
 What will the economy look like in one year?
-What will the economy look like in one year? 
 Will the income and the expenditures both increase?
 Will the data reflect what the economy will look like?
 
