@@ -1,28 +1,25 @@
-# What to do
-# Third Week:
-* Complete the Presentation
 
 # Ask yourself the following questions: 
  * Which ideas are essential to the project? 
  * Which would be nice to have? 
  * Which would involve too much work to complete on time?
 
-# To sum up, your team needs to complete the following before meeting with your instructor:
-* Finish The Twenty-Minute Presentation
-
 # Content
 * The Topic:
 Household incomes and expenditures. The reason why we picked this topic was due to the fact that todays economy is crazy, and we want to see if we can predict how bad (or good) the economy will get in the next year.
 
-* The Source: 
+# The Source: 
 Data was found on a government website, under the topic "Economy". Link:https://www.stats.govt.nz/large-datasets/csv-files-for-download/#:~:text=CSV%20files%20are%20text%20files%20with%20information%20separated,Microsoft%20Excel%2C%20the%20R%20statistical%20environment%2C%20or%20Python.
 This data includes household income, and expenditures such as rent, gas, bills etc. 
 
 
-* Questions we hope to answer with Data:
-What will the economy look like in one year?
-Will the income and the expenditures both increase?
-Will the data reflect what the economy will look like?
+# Questions we hope to answer with Data:
+* What will the economy look like in one year? - People will be making less money, which implies they will spend less on expenditures.
+
+* Will the income and the expenditures both increase? - Both income and expenditures are projected to slightly decline.
+
+* Will the data reflect what the economy will look like? - Our model’s predictions for income and expenditures were slightly higher than the actual result.
+
 
 # Description of the data exploration phase of the project:
 With our data, we at first thought it was a good idea to have the income values, alongside the expenditure values in one column. Come to find out, we had to split those up into two seperate columns. We went back and forth in pandas and SQL to create new tables, to then use in our Machine Learning Model. Because of that seperation of columns, it made it a lot easier to utilize the data.
@@ -54,6 +51,12 @@ Every Team Members branch:
 * https://github.com/D1am0ndDude/HouseHold_Income_Final/tree/Claytons-Branch
 * https://github.com/D1am0ndDude/HouseHold_Income_Final/tree/Darrens-Branch
 * https://github.com/D1am0ndDude/HouseHold_Income_Final/tree/Erics-Branch
+
+# Recommendations
+If we had more time to plan, we could have chosen a Classification model which would have allowed us to group the Expenditures into specific categories. 
+From here, could have drawn even better insights and figured out what types of Expenditures are seeing the most changes on a year over year basis.
+We could have also tried creating a budget which could illustrate adjustment consumers would need to make going into the next year.
+
 
 # In this segment, the project deliverable includes the following:
 
